@@ -1,0 +1,7 @@
+{
+  "timestamp": "2018-04-27T04:33:09.736+0000",
+  "status": 500,
+  "error": "Internal Server Error",
+  "message": "Could not write JSON: No default constructor for entity:  : mn.num.seas.complaint_registration.entity.Message; nested exception is com.fasterxml.jackson.databind.JsonMappingException: No default constructor for entity:  : mn.num.seas.complaint_registration.entity.Message (through reference chain: java.util.ArrayList[0]->mn.num.seas.complaint_registration.entity.Complaint[\"messages\"])",
+  "path": "/complaint"
+}
